@@ -4,6 +4,7 @@
 void ofApp::setup(){
     ofHideCursor();
     ofSetCircleResolution(50);
+    ofSetBackgroundColor(255);
 }
 
 //--------------------------------------------------------------
